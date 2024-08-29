@@ -52,11 +52,7 @@ const MatchGame = (props) => {
 			<div className="text-center m-2 blue font-bold">
 				<h6>Match the phrases with their meanings.</h6>
 			</div>
-			<div className="m-4">
-				{matchInfo.meanings.map((meaning, index) => {
-					return <div key={index}>{meaning}</div>;
-				})}
-			</div>
+
 			<div className="m-4">
 				{matchInfo.phrases.map((phrase, index) => {
 					return (
@@ -95,6 +91,11 @@ const MatchGame = (props) => {
 							</Form>
 						</div>
 					);
+				})}
+			</div>
+			<div className="m-4">
+				{matchInfo.meanings.map((meaning, index) => {
+					return <div key={index}>{meaning}</div>;
 				})}
 			</div>
 			<div className="text-center">
