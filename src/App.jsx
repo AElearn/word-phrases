@@ -18,7 +18,7 @@ import matchData from "./stage2.json";
 
 function App() {
 	// Change this to the right lesson per week
-	const [lesson, setLesson] = useState(21);
+	const [lesson, setLesson] = useState(0);
 	const [expanded, setExpanded] = useState(false);
 
 	/*
@@ -29,7 +29,7 @@ function App() {
 	const [stage, setStage] = useState(1);
 
 	useEffect(() => {
-		document.title = "Word Phrases";
+		document.title = "Idioms and Phrases";
 	});
 
 	return (
@@ -37,7 +37,7 @@ function App() {
 			<Navbar expanded={expanded} bg="light" expand="lg">
 				<Container>
 					<Navbar.Brand href="">
-						Word Phrases - Lesson {lesson + 1}
+						Idioms and Phrases - Lesson {lesson + 1}
 					</Navbar.Brand>
 					<Navbar.Toggle
 						onClick={() => setExpanded(!expanded)}
