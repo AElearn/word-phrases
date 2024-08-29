@@ -1,0 +1,200 @@
+[
+	{
+		"phrases": ["all of a sudden", "all but", "all in all"],
+		"conversations": [
+			"A: Did you finish the project?\nB: Yes, ________ the final touches. It'll be ready soon.",
+			"A: How was the movie?\nB: It had a few slow moments, but ________, it was quite entertaining.",
+			"A: What happened to the power?\nB: It went out ________. I hope it comes back soon because I need to study tonight."
+		],
+		"answers": [1, 2, 0]
+	},
+	{
+		"phrases": ["break up with", "break off", "break down"],
+		"conversations": [
+			"A: The printer seems to ________ every time I need it most.\nB: I know, it's really frustrating—maybe we should get a new one.",
+			"A: Did you hear about the business partnership?\nB: Yes, they had to ________ the collaboration due to financial disagreements.",
+			"A: Why did you ________ your girlfriend Emily?\nB: Well, it was a tough decision. We just grew apart; it wasn't working anymore."
+		],
+		"answers": [2, 1, 0]
+	},
+	{
+		"phrases": ["come across", "come to", "come into effect"],
+		"conversations": [
+			"A: Did you finally make a decision?\nB: Yes, after careful consideration, I've ________ the conclusion that it's time for a career change.",
+			"A: I always ________ the strangest things when I clean out my closet.\nB: Same here! It’s like a trip down memory lane every time.",
+			"A: When will the new policy be implemented?\nB: The new policy will ________ starting next month. We need to prepare for the changes it will bring."
+		],
+		"answers": [1, 0, 2]
+	},
+	{
+		"phrases": ["drop out of", "drop by", "drop off"],
+		"conversations": [
+			"A: Are you busy this afternoon?\nB: Not really. Feel free to _______ my place anytime.",
+			"A: I need to return this book to the library. Can you do it for me?\nB: Of course, I'll be passing by the library this afternoon. I'll _____ it _____ on my way.",
+			"A: I heard John left college. What happened?\nB: Yeah, he decided to ________ the program and pursue a different career path."
+		],
+		"answers": [1, 2, 0]
+	},
+	{
+		"phrases": ["every inch", "every which way", "every now and then"],
+		"conversations": [
+			"A: How did you prepare for the presentation?\nB: I researched extensively, making sure to cover ________ of the topic to deliver an informative presentation.",
+			"A: Do you still play the guitar?\nB: Not as often as before, but I still pick it up and play ________ to keep my skills sharp.",
+			"A: When I get to the roundabout, should I go ________ to reach the park?\nB: Make a left at the second exit, and you’ll see the park entrance straight ahead."
+		],
+		"answers": [0, 2, 1]
+	},
+	{
+		"phrases": ["fall off", "fall behind", "fall back on"],
+		"conversations": [
+			"A: Are you keeping up with your studies?\nB: I've been struggling lately and starting to _____ in some subjects. I need to put in extra effort to catch up.",
+			"A: Did you enjoy the concert last night?\nB: It was great, but the energy of the crowd started to _____ towards the end. Then, many people left early.",
+			"A: I'm not sure if I can finish this project on time.\nB: If you need help, you can _____ me. I'm here to support you."
+		],
+		"answers": [1, 0, 2]
+	},
+	{
+		"phrases": ["get over", "get rid of", "get in touch with"],
+		"conversations": [
+			"A: I can't believe I failed the exam.\nB: It's disappointing, but don't worry, you'll _____. Learn from it and keep moving forward.",
+			"A: Do you still have that old furniture?\nB: No, I finally decided to _____ it and bought new ones for a fresh look in my living room.",
+			"A: Have you talked to John recently?\nB: Not yet, but I need to _____ him to discuss some important matters. I'll reach out to him today."
+		],
+		"answers": [0, 1, 2]
+	},
+	{
+		"phrases": ["hand around", "hand over", "hand in"],
+		"conversations": [
+			"A: Have you finished your report?\nB: Yes, I'm ready to _____ it _____. I'll submit it to the manager before the end of the day.",
+			"A: The police caught the thief and he had to ________ the stolen goods.\nB: That's good news. It's important that he faces the consequences and returned what he took.",
+			"A: Do you have any snacks to share with everyone?\nB: Yes, I brought a bag of chips. I'll _____ them _____, so everyone can have some."
+		],
+		"answers": [2, 1, 0]
+	},
+	{
+		"phrases": ["in advance", "in pursuit of", "in favor of"],
+		"conversations": [
+			"A: Can you please send me the presentation slides?\nB: Of course, I will email them to you __________, so you have time to review them before the meeting.",
+			"A: Should we implement the new policy?\nB: I'm ________ it. I believe it will bring positive changes to the organization.",
+			"A: Why did you decide to become a professional athlete?\nB: I've always had a passion for sports, and I wanted to push myself to the limits ________ success in my chosen field."
+		],
+		"answers": [0, 2, 1]
+	},
+	{
+		"phrases": ["just in case", "just in time", "just one of those things"],
+		"conversations": [
+			"A: Why do you always carry an umbrella with you?\nB: I always carry it ________ it starts raining unexpectedly. It's better to be prepared.",
+			"A: I was running late for the bus, but I managed to catch it.\nB: Wow, you made it ________! Otherwise, you would have had to wait for the next one.",
+			"A: I can't believe our flight got delayed again.\nB: Yeah, it's frustrating, but delays happen. It's ________ we can't control."
+		],
+		"answers": [0, 1, 2]
+	},
+	{
+		"phrases": ["keep up a (the) custom", "keep in mind", "keep on"],
+		"conversations": [
+			"A: I'm finding this math problem really challenging.\nB: Don't give up! Please ________ trying, and you'll eventually solve it.",
+			"A: I'm planning a trip to the beach next week.\nB: Well, ________ that it's the rainy season, so pack an umbrella, just in case.",
+			"A: Do you still practice your cultural traditions?\nB: Yes, we ________ of celebrating Lunar New Year with our family every year."
+		],
+		"answers": [2, 1, 0]
+	},
+	{
+		"phrases": ["look after", "look over", "look up to"],
+		"conversations": [
+			"A: I'm going out of town for a few days. Can you _____ my plants?\nB: Of course! I'll water them regularly and make sure they receive enough sunlight while you're away.",
+			"A: Can you _____ my essay and give me feedback?\nB: Sure, I'd be happy to, and I’ll provide you with some suggestions.",
+			"A: Who is your biggest inspiration?\nB: I _____ my parents. They have always been supportive, hardworking, and have achieved so much in their lives."
+		],
+		"answers": [0, 1, 2]
+	},
+	{
+		"phrases": ["make an effort to", "make sense", "make progress"],
+		"conversations": [
+			"A: How's your project coming along?\nB: I've been working hard, and I'm starting to ________. It's slowly coming together.",
+			"A: I read the instructions of the machine, but I still don’t understand.\nB: Let me take a look. I'll explain it to you in a way that will ________.",
+			"A: I really want to improve my fitness level.\nB: That's great! You should ________ exercise regularly and eat healthily, and you'll start seeing positive changes."
+		],
+		"answers": [2, 1, 0]
+	},
+	{
+		"phrases": ["no doubt", "no less than", "no longer"],
+		"conversations": [
+			"A: Are you going to win the running race?\nB: Well, ________! I've trained hard and I'm ready to give it my all.",
+			"A: I heard you quit your job. Is it true?\nB: Yes, it is. I realized I was ________ passionate about it and needed a change.",
+			"A: How many people attended the jazz concert?\nB: I guess ________ a thousand! The venue was packed with enthusiastic fans."
+		],
+		"answers": [0, 2, 1]
+	},
+	{
+		"phrases": ["on behalf of", "on board", "on second thought"],
+		"conversations": [
+			"A: Are you ready for our trip to Italy?\nB: Yes, I'm all packed and excited to get ________ the plane!",
+			"A: Can you give a speech ________ our department?\nB: Sure, I'd be happy to represent us and share our achievements.",
+			"A: Let's go out for dinner tonight. What do you think?\nB: Oh, ________, I have some work to finish. Can we reschedule for another time?"
+		],
+		"answers": [1, 0, 2]
+	},
+	{
+		"phrases": ["put out", "put up with", "put off"],
+		"conversations": [
+			"A: I plan to start exercising every day, but there is always something coming up. So, I have to _____ it _____ very often.\nB: Oh, no. Start today and make it a priority.",
+			"A: The fire in the kitchen is getting out of control!\nB: Don't worry, I'll grab the fire extinguisher and ________ the flames. Stay back and call for help.",
+			"A: My roommate’s loud music is driving me crazy. I can't ________ it anymore.\nB: You should have a conversation with him and express how the noise is affecting you."
+		],
+		"answers": [2, 0, 1]
+	},
+	{
+		"phrases": ["run after", "run over", "run into"],
+		"conversations": [
+			"A: Why do you always ________ the latest fashion?\nB: I enjoy staying updated and exploring new things. It keeps life interesting.",
+			"A: I went to the supermarket this morning.\nB: Did you ________ anyone you know?\nA: It’s my old neighbor from two years ago. It was a pleasant surprise!",
+			"A: I'm so sorry, I didn't mean to ________ your bicycle.\nB: That's alright, just be more careful next time and watch out for objects on the road."
+		],
+		"answers": [0, 2, 1]
+	},
+	{
+		"phrases": ["stay up", "stay put", "stay away from"],
+		"conversations": [
+			"A: We're going out for a while. Please ________ and don't leave the house.\nB: Alright, I'll be here and wait for your return.",
+			"A: I need to ________ late tonight to finish this important report.\nB: Take care of yourself. Don't forget to get some rest afterwards.",
+			"A: I heard that restaurant has a food poisoning outbreak.\nWe should ________ it.\nB: Absolutely, let's find another place to eat. It's better to be safe than sorry."
+		],
+		"answers": [1, 0, 2]
+	},
+	{
+		"phrases": ["take over", "take pride in", "take place"],
+		"conversations": [
+			"A: I need to leave early. Can you ________ the meeting for me?\nB: Sure, I'll handle it. Don't worry, I've got everything under control.",
+			"A: The charity event will ________ at the community center this Saturday. Are you attending?\nB: Yes, I'm looking forward to the event and supporting a good cause.",
+			"A: I saw your artwork at the gallery. You should ________ your talent.\nB: Thank you so much! I've put a lot of heart into my art, and I'm proud of what I've created."
+		],
+		"answers": [0, 2, 1]
+	},
+	{
+		"phrases": ["under the weather", "under investigation", "under cover"],
+		"conversations": [
+			"A: Did you hear about Grace? She disappeared suddenly!\nB: Yeah, she's actually working ________ for a top-secret mission.",
+			"A: Why is Ann being questioned by the police?\nB: I'm not sure, but I heard she's ________ for her involvement in a potential crime.",
+			"A: How's Lisa doing? She seems a bit off today.\nB: She's just ________, battling a cold. She'll be fine soon."
+		],
+		"answers": [2, 1, 0]
+	},
+	{
+		"phrases": ["wait around", "wait for", "wait and see"],
+		"conversations": [
+			"A: Why do you always ________ instead of exploring the city when going on a trip?\nB: Well, I have some time to spare, so I thought I'd see if anything interesting may happen.",
+			"A: When will the package arrive?\nB: I'm not sure, we'll have to ________ the delivery person to bring it.",
+			"A: What do you think about the new company policy?\nB: I'm not sure yet. Let's ________ how it unfolds before forming an opinion."
+		],
+		"answers": [0, 1, 2]
+	},
+	{
+		"phrases": ["year by year", "year-round", "year in, year out"],
+		"conversations": [
+			"A: I’m interested in joining that gym, but I’m not sure if it’s open during the colder months.\nB: It’s actually open ________, so you can work out there regardless of the season.",
+			"A: I'm working hard to improve my skills in this sport. Therefore, ________, I see small improvements.\nB: That's the right attitude! Keep pushing yourself, and you'll achieve great things.",
+			"A: The quality of the restaurant’s food has been exceptional ________, which is why it’s always so popular.\nB: That’s true. It’s impressive to see how they manage to maintain the same high standards over the years."
+		],
+		"answers": [1, 0, 2]
+	}
+]

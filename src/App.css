@@ -1,0 +1,20 @@
+.red {
+	color: #d93f34;
+}
+
+.blue {
+	color: #3489d9;
+}
+
+.hint {
+	color: #b1b1b1;
+}
+
+.green {
+	color: #19c22c;
+}
+
+.reading {
+	padding: 16px;
+	text-align: justify;
+}

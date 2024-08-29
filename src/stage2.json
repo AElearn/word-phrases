@@ -1,0 +1,196 @@
+[
+	{
+		"phrases": ["All but", "All in all", "All of a sudden"],
+		"meanings": [
+			"(A) Almost",
+			"(B) Very quickly",
+			"(C) To consider every aspect of something"
+		],
+		"answers": ["A", "C", "B"]
+	},
+	{
+		"phrases": ["Break down", "Break off", "Break up with"],
+		"meanings": [
+			"(A) To end a relationship with someone",
+			"(B) To stop working because of a fault",
+			"(C) To stop doing something"
+		],
+		"answers": ["B", "C", "A"]
+	},
+	{
+		"phrases": ["Come to", "Come across", "Come into effect"],
+		"meanings": [
+			"(A) To become conscious again",
+			"(B) To find something by chance",
+			"(C) To begin to be used"
+		],
+		"answers": ["A", "B", "C"]
+	},
+	{
+		"phrases": ["Drop by", "Drop off", "Drop out of"],
+		"meanings": [
+			"(A) To quit participating in something",
+			"(B) To deliver someone or something to a specific location and leave",
+			"(C) To visit someone informally"
+		],
+		"answers": ["C", "B", "A"]
+	},
+	{
+		"phrases": ["Every inch", "Every now and then", "Every which way"],
+		"meanings": ["(A) Completely", "(B) Occasionally", "(C) In all directions"],
+		"answers": ["A", "B", "C"]
+	},
+	{
+		"phrases": ["Fall behind", "Fall off", "Fall back on"],
+		"meanings": [
+			"(A) To rely on something as a backup",
+			"(B) To decrease in quantity or quality",
+			"(C) To fail to keep up with a required pace"
+		],
+		"answers": ["C", "B", "A"]
+	},
+	{
+		"phrases": ["Get over", "Get rid of", "Get in touch with"],
+		"meanings": [
+			"(A) To recover from a difficult situation",
+			"(B) To establish contact with someone",
+			"(C) To remove something or someone unwanted"
+		],
+		"answers": ["A", "C", "B"]
+	},
+	{
+		"phrases": ["Hand in", "Hand over", "Hand around"],
+		"meanings": [
+			"(A) To pass something to multiple people in a group",
+			"(B) To submit or deliver something",
+			"(C) To transfer something to another person or entity"
+		],
+		"answers": ["B", "C", "A"]
+	},
+	{
+		"phrases": ["In advance", "In favor of", "In pursuit of"],
+		"meanings": [
+			"(A) To engage in the effort to achieve something",
+			"(B) To support",
+			"(C) Before a particular event or time"
+		],
+		"answers": ["C", "B", "A"]
+	},
+	{
+		"phrases": ["Just in case", "Just in time", "Just one of those things"],
+		"meanings": [
+			"(A) To happen at the exact moment",
+			"(B) To refer to the possibility that a thing might happen",
+			"(C) To describe a situation that is considered random or beyond control"
+		],
+		"answers": ["B", "A", "C"]
+	},
+	{
+		"phrases": ["Keep on", "Keep in mind", "Keep up a (the) custom"],
+		"meanings": [
+			"(A) To continue doing something",
+			"(B) To remember something",
+			"(C) To maintain a tradition or practice over time"
+		],
+		"answers": ["A", "B", "C"]
+	},
+	{
+		"phrases": ["Look after", "Look over", "Look up to"],
+		"meanings": [
+			"(A) To take care of someone or something",
+			"(B) To respect and admire someone",
+			"(C) To examine something"
+		],
+		"answers": ["A", "C", "B"]
+	},
+	{
+		"phrases": ["Make progress", "Make sense", "Make an effort to"],
+		"meanings": [
+			"(A) To take actions towards achieving a goal",
+			"(B) Be logical or understandable",
+			"(C) To move forward in a specific situation"
+		],
+		"answers": ["C", "B", "A"]
+	},
+	{
+		"phrases": ["No doubt", "No longer", "No less than"],
+		"meanings": [
+			"(A) Not anymore",
+			"(B) Without any hesitation",
+			"(C) At least or not fewer in number or amount than the specified quantity"
+		],
+		"answers": ["B", "A", "C"]
+	},
+	{
+		"phrases": ["On board", "On behalf of", "On second thought"],
+		"meanings": [
+			"(A) After reconsideration",
+			"(B) To act or speak for someone else",
+			"(C) On or in a ship, aircraft, train, or other vehicle"
+		],
+		"answers": ["C", "B", "A"]
+	},
+	{
+		"phrases": ["Put off", "Put out", "Put up with"],
+		"meanings": [
+			"(A) To delay something to a later time",
+			"(B) To tolerate something, often unpleasant or challenging",
+			"(C) To cause to stop burning"
+		],
+		"answers": ["A", "C", "B"]
+	},
+	{
+		"phrases": ["Run after", "Run into", "Run over"],
+		"meanings": [
+			"(A) To unexpectedly meet someone or something",
+			"(B) To chase or pursue someone or something",
+			"(C) To hit and pass over someone or something with a vehicle"
+		],
+		"answers": ["B", "A", "C"]
+	},
+	{
+		"phrases": ["Stay put", "Stay up", "Stay away from"],
+		"meanings": [
+			"(A) To remain in one place",
+			"(B) To not go to bed at the usual time",
+			"(C) To keep a distance from someone or something"
+		],
+		"answers": ["A", "B", "C"]
+	},
+	{
+		"phrases": ["Take over", "Take place", "Take pride in"],
+		"meanings": [
+			"(A) To happen at a specific location or time",
+			"(B) To feel a deep sense of satisfaction and ownership in one's accomplishments",
+			"(C) To assume responsibility of something"
+		],
+		"answers": ["C", "A", "B"]
+	},
+	{
+		"phrases": ["Under cover", "Under investigation", "Under the weather"],
+		"meanings": [
+			"(A) Being looked into to try to find out the fact",
+			"(B) To feel unwell or experience mild illness",
+			"(C) To do secret work while pretending to be someone else"
+		],
+		"answers": ["C", "A", "B"]
+	},
+	{
+		"phrases": ["Wait around", "Wait for", "Wait and see"],
+		"meanings": [
+			"(A) To remain in a location or situation with no specific purpose",
+			"(B) To remain in expectation of someone or something",
+			"(C) To delay judgment or action until further information"
+		],
+		"answers": ["A", "B", "C"]
+	},
+	{
+		"phrases": ["Year-round", "Year by year", "Year in, year out"],
+		"meanings": [
+			"(A) Gradually and consistently over the course of years, often implying slow progress or change.",
+			"(B) Something that happens throughout the entire year.",
+			"(C) To continue without any significant change or interruption"
+		],
+		"answers": ["B", "A", "C"]
+	}
+]

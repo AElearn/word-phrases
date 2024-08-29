@@ -1,0 +1,90 @@
+[
+	{
+		"keyword": "All",
+		"phrases": ["All but", "All in all", "All of a sudden"]
+	},
+	{
+		"keyword": "Break",
+		"phrases": ["Break down", "Break off", "Break up with"]
+	},
+	{
+		"keyword": "Come",
+		"phrases": ["Come to", "Come across", "Come into effect"]
+	},
+	{
+		"keyword": "Drop",
+		"phrases": ["Drop by", "Drop off", "Drop out of"]
+	},
+	{
+		"keyword": "Every",
+		"phrases": ["Every inch", "Every now and then", "Every which way"]
+	},
+	{
+		"keyword": "Fall",
+		"phrases": ["Fall behind", "Fall off", "Fall back on"]
+	},
+	{
+		"keyword": "Get",
+		"phrases": ["Get over", "Get rid of", "Get in touch with"]
+	},
+	{
+		"keyword": "Hand",
+		"phrases": ["Hand in", "Hand over", "Hand around"]
+	},
+	{
+		"keyword": "In",
+		"phrases": ["In advance", "In favor of", "In pursuit of"]
+	},
+	{
+		"keyword": "Just",
+		"phrases": ["Just in case", "Just in time", "Just one of those things"]
+	},
+	{
+		"keyword": "Keep",
+		"phrases": ["Keep on", "Keep in mind", "Keep up a custom"]
+	},
+	{
+		"keyword": "Look",
+		"phrases": ["Look after", "Look over", "Look up to"]
+	},
+	{
+		"keyword": "Make",
+		"phrases": ["Make progress", "Make sense", "Make an effort to"]
+	},
+	{
+		"keyword": "No",
+		"phrases": ["No doubt", "No longer", "No less than"]
+	},
+	{
+		"keyword": "On",
+		"phrases": ["On board", "On behalf of", "On second thought"]
+	},
+	{
+		"keyword": "Put",
+		"phrases": ["Put off", "Put out", "Put up with"]
+	},
+	{
+		"keyword": "Run",
+		"phrases": ["Run after", "Run into", "Run over"]
+	},
+	{
+		"keyword": "Stay",
+		"phrases": ["Stay put", "Stay up", "Stay away from"]
+	},
+	{
+		"keyword": "Take",
+		"phrases": ["Take over", "Take place", "Take pride in"]
+	},
+	{
+		"keyword": "Under",
+		"phrases": ["Under cover", "Under investigation", "Under the weather"]
+	},
+	{
+		"keyword": "Wait",
+		"phrases": ["Wait around", "Wait for", "Wait and see"]
+	},
+	{
+		"keyword": "Year",
+		"phrases": ["Year-round", "Year by year", "Year in, year out"]
+	}
+]
